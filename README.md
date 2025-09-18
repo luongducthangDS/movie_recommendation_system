@@ -1,4 +1,4 @@
-🎬 Movie Recommendation System
+🎬 Movie Recommendation System  
 📌 Giới thiệu
 Project xây dựng một hệ thống gợi ý phim dựa trên dữ liệu MovieLens. Hệ thống có thể đề xuất phim cho người dùng dựa trên hành vi đánh giá trước đó và sự tương đồng giữa các người dùng hoặc phim.
 
